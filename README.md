@@ -20,7 +20,8 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/javascript.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/nodejs.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/nodejs.png" /
+<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/java.png" />>
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/github.png" />
 <img align="left" alt="Shell" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/terminal.png" />
