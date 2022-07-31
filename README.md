@@ -32,9 +32,9 @@
 <br>
 
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=SuchBlue&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="SuchBlue's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=SuchBlue&show_icons=true&title_color=fff&icon_color=efefef&text_color=efefef&bg_color=24292e" alt="SuchBlue's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchBlue&theme=tokyonight" width="37%" alt="SuchBlue's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchBlue&show_icons=true&title_color=fff&icon_color=efefef&text_color=efefef&bg_color=24292e" width="37%" alt="SuchBlue's Top Languages">
 
 
 <br>
