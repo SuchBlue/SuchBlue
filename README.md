@@ -2,6 +2,8 @@
   <h1 align="center"><b>SuchBlue's profile</b></h1>
 </p>
 
+![](https://komarev.com/ghpvc/?username=SuchBlue&style=for-the-badge)
+
 ### Find me on: 
 
 ![](https://dcbadge.vercel.app/api/shield/484635967693520898?theme=default-inverted)
