@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCJUVxZSs-ZCjhYBrTQ9shFQ"><img align="left" alt="YouTube" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/youtube.png" /></a>
 <a href="https://steamcommunity.com/id/suchblue/"><img align="left" alt="Steam" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/steam.png" /></a>
 <a href="https://twitter.com/SuchBlue_"><img align="left" alt="Twitter" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/twitter.png" /></a>
-<a href="https://twitch.tv/SuchBlue_"><img align="left" alt="Twitch" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/twitch.png" /></a>
+<a href="https://such.blue"><img align="left" alt="such.blue" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/site.png" /></a>
 <br>
 <br>
 <br>
