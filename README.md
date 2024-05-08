@@ -6,7 +6,7 @@
 
 ### Find me on: 
 
-![](https://dcbadge.vercel.app/api/shield/484635967693520898?theme=default-inverted)
+![](https://dcbadge.limes.pink/api/shield/484635967693520898?theme=default-inverted)
 <a href="https://www.youtube.com/channel/UCJUVxZSs-ZCjhYBrTQ9shFQ"><img align="left" alt="YouTube" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/youtube.png" /></a>
 <a href="https://steamcommunity.com/id/suchblue/"><img align="left" alt="Steam" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/steam.png" /></a>
 <a href="https://twitter.com/SuchBlue_"><img align="left" alt="Twitter" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/twitter.png" /></a>
