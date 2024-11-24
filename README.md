@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p>
   <h1 align="center"><b>SuchBlue's profile</b></h1>
 </p>
