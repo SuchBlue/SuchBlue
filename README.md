@@ -17,17 +17,7 @@
 
 ### Languages and Tools: 
 
-![]()<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/visual-studio-code.png" />
-<img align="left" alt="IntelliJ IDEA" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/intellij-idea.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/javascript.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/nodejs.png" />
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/java.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/github.png" />
-<img align="left" alt="Shell" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/terminal.png" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/SuchBlue/SuchBlue/main/images/python.png" />
+![My Skills](https://skillicons.dev/icons?i=vscode,idea,python,docker,vim,java,nodejs,js,html,css,git,github,linux,bash)](https://skillicons.dev)
 <br>
 <br>
 <br>
@@ -40,5 +30,4 @@
 
 
 <br>
-
 <br>
